@@ -1,0 +1,23 @@
+.about-content h1
+{
+  text-align: center;
+
+}
+.about 
+{
+    background: linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,.3)), url("../../assets/aboutbg.jpeg");
+    height: 546px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-content p
+{
+  text-align: center;
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Roboto Mono', monospace;
+  
+}

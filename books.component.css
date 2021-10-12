@@ -1,0 +1,14 @@
+.books
+{
+    background: linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,.3)), url("../../assets/booksbg.jpg");
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px 50px;
+}
+.box
+{
+    background-color: #F9D5A7;
+    padding: 10px 10px;
+}
