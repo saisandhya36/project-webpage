@@ -1,0 +1,15 @@
+.signin
+{
+    background: linear-gradient(rgba(255,255,255,.3), rgba(255,255,255,.3)), url("../../assets/rentbg.jpg");
+    height: 546px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 30px 30px;
+}
+.fill form
+{
+    background-color: #F9D5A7;
+    border: crimson;
+    padding: 20px 30px;
+}
